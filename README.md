@@ -1,5 +1,6 @@
 ### Create terraform.tfvars files
 
+```hcl
 region = "us-east-1"
 key_name = "virginia-key"
 vpc_cidr = "172.31.0.0/16"
